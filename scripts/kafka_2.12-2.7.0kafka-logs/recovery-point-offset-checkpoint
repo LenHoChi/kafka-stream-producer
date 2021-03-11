@@ -1,8 +1,0 @@
-0
-6
-streams-plaintext-input 0 9
-streams-wordcount-KSTREAM-AGGREGATE-STATE-STORE-0000000003-repartition 0 25
-hello-producer 0 21
-streams-wordcount-output 0 25
-streams-wordcount-KSTREAM-AGGREGATE-STATE-STORE-0000000003-changelog 0 25
-__consumer_offsets 0 68
